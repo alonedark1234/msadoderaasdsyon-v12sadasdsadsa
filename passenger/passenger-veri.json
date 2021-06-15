@@ -1,0 +1,71 @@
+{
+"sunucuIsmi" : "୪ SHARİA",
+"sunucuUfakIsim": "SHARİA",
+"Tag": "୪",
+"IkinciTag": "୪",
+"yasakTaglar": ["ꕽ"],
+"sunucuDavetLinki": "https://discord.gg/f7twS2Y3jd",
+"embedUfakResim": "",
+"Kanallar": {
+    "kayitSonrasi": "817880716553093152",
+    "banLogKanali": "832763376874291280",
+    "kickLogKanali": "832763376874291280",
+    "jailLogKanali": "832763376874291280",
+    "supheliLogKanali": "832763376874291280",
+    "yasakliTagLogKanali": "832763376874291280",
+    "muteLogKanali": "832763376874291280",
+    "sesmuteLogKanali": "832763376874291280",
+    "uyarıLogKanali": "832763376874291280",
+    "tagLogKanali": "832763376874291280",
+    "chatKanali": "832763376874291280",
+    "kurallarKanal": "832763376874291280",
+    "mesajLogKanali": "832763376874291280",
+    "sesLogKanali": "832763376874291280"
+},
+
+"Roller": {
+    "botcuRolu": "824959626831331338",
+    "kurucuRolu": "824703170910486609",
+    "altKurucuRolu": "825690081012219925",
+    "yonetimRolu": "825690083755556874",
+    "boosterRolu": "823924292475551754",
+    "muteRolu": "825690137148391444",
+    "jailRolu": "825690135416930314",
+    "supheliRolu": "825690136385683507",
+    "yasakliTagRolu": "825690134439002163",
+    "istatistikciRolleri": ["825690121583067136"],
+    "botCommand": ["825690115917348885"],
+    "warnHammer": ["825690111026790462"],
+    "muteHammer": ["825690114113011713"],
+    "voiceMuteHammer": ["825690114930901014"],
+    "jailHammer": ["825690111026790462"],
+    "banHammer": ["825690111026790462"],
+    "roleManager": ["825690088225636352"],
+    "vipRolu": "825690152550662144"
+},
+"Yetenek": {
+    "vokalRolu": "825690158161461258",
+    "müzisyenRolu": "825690151690698763",
+    "telliRolu": "825690151690698763",
+    "yazılımcıRolu": "825690164398391296",
+    "tasarımcıRolu": "825690164398391296",
+    "ressamRolu": "825690162360614922",
+    "şairRolu": "825690163212582953"
+},
+
+"Emojiler": {
+    "tag": "825695075186114581",
+    "Onay": "774912687464906762",
+    "Iptal": "774912688375201822",
+    "afkOldu": "824575774497177600",
+    "afkOlmadi": "824575934212341780",
+    "hosgeldinGif1": "824889617119182849",
+    "hosgeldinGif2": "824889617119182849",
+    "hosgeldinGif3": "824889617119182849",
+    "hosgeldinGif4": "824889617119182849",
+    "hosgeldinGif5": "824889617119182849",
+    "susturuldu": "780512609500921938",
+    "susturmakaldirildi": "824576265897508874",
+    "jailatildi": "824576586087006208"
+}
+}
